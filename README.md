@@ -1,4 +1,4 @@
-### Hi there, I'm [Jay Vaghasiya](https://www.linkedin.com/in/jay-vaghasiya/) 👋
+### Hi there, I'm [Jay Vaghasiya](https://www.linkedin.com/in/jay-vaghasiya/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Software Engineer 💻!
 - 🔭 I’m currently working on a MERN stack proejct
