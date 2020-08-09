@@ -1,4 +1,4 @@
-### Hi there, I'm [Jay Vaghasiya](https://www.linkedin.com/in/jay-vaghasiya/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Jay Vaghasiya](https://www.linkedin.com/in/jay-vaghasiya/) 
 
 ## I'm a Software Engineer 💻!
 - 🔭 I’m currently working on a MERN stack proejct
@@ -6,12 +6,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
+---
 <div align="center">
     <a href="https://github.com/jaysparkexel">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=jaysparkexel&show_icons=true&hide=issues&theme=buefy" alt="Jay Vaghasiya's github stats" />
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=jaysparkexel&show_icons=true&hide=issues&theme=buefy&count_private=true" alt="Jay Vaghasiya's github stats" />
     </a>
-    <a href="https://github.com/jaysparkexel"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaysparkexel&layout=compact&theme=buefy" /></a>
+    <a href="https://github.com/jaysparkexel"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaysparkexel&layout=compact&theme=buefy"/></a>
 </div>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <br>
 <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
